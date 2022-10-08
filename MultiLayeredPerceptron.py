@@ -275,7 +275,7 @@ class Plots:
 if __name__ == "__main__":
 
     # The absolute path used for finding the files. Need to change if used in another computer
-    filename = "c:/Users/nikol/Desktop/University/Year 4/7th-Semester/EPL442 - Computational Learning Systems - ML/EPL442 - Homeworks/HW1/"
+    filename = "Enter filename absolute path here"
     
     # Obtaining the parameters from our parameter file
     p_filename = filename + "parameters.txt"
